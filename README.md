@@ -24,4 +24,7 @@
 
 ## Plug VAE Decode output image to the node
 
+![image](https://github.com/seghier/ComfyUI_Email_Notification/assets/6026588/c0495771-2b04-475a-a7a5-8817531d6706)
+
+
 ![image](https://github.com/seghier/ComfyUI_Email_Notification/assets/6026588/8fc11211-74cd-4599-a5ad-11560c11b787)
