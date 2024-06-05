@@ -17,6 +17,10 @@
      pip install secure-smtplib
      pip install email
      ```
+     or
+     ```
+     pip install -r requirements.txt
+     ```
 
 ## Plug VAE Decode output image to the node
 
