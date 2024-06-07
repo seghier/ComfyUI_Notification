@@ -1,3 +1,7 @@
+## Important
+In  ```settings.py ```:
+   - Change the dafault settings: to_email, from_email, password .... etc 
+
 ## Step-by-Step Implementation with Gmail
 
 1. **Generate an App Password**:
