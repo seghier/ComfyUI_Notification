@@ -1,0 +1,6 @@
+FROM_EMAIL = ""
+TO_EMAIL = ""
+PASSWORD = ""
+
+TELEGRAM_TOKEN = ""
+CHAT_ID = ""
